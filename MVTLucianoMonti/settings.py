@@ -54,7 +54,7 @@ ROOT_URLCONF = 'MVTLucianoMonti.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [r'C:\Users\ICBC\Desktop\MVT+LucianoMonti\templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
